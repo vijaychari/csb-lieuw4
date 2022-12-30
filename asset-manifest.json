@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://vijaychari.github.io/csb-lieuw4/static/css/main.99fc6a73.chunk.css",
+    "main.js": "https://vijaychari.github.io/csb-lieuw4/static/js/main.ebbeed78.chunk.js",
+    "main.js.map": "https://vijaychari.github.io/csb-lieuw4/static/js/main.ebbeed78.chunk.js.map",
+    "runtime-main.js": "https://vijaychari.github.io/csb-lieuw4/static/js/runtime-main.66398317.js",
+    "runtime-main.js.map": "https://vijaychari.github.io/csb-lieuw4/static/js/runtime-main.66398317.js.map",
+    "static/js/2.8083575e.chunk.js": "https://vijaychari.github.io/csb-lieuw4/static/js/2.8083575e.chunk.js",
+    "static/js/2.8083575e.chunk.js.map": "https://vijaychari.github.io/csb-lieuw4/static/js/2.8083575e.chunk.js.map",
+    "index.html": "https://vijaychari.github.io/csb-lieuw4/index.html",
+    "precache-manifest.6650600b6eb6775036b1d70ef55b9c24.js": "https://vijaychari.github.io/csb-lieuw4/precache-manifest.6650600b6eb6775036b1d70ef55b9c24.js",
+    "service-worker.js": "https://vijaychari.github.io/csb-lieuw4/service-worker.js",
+    "static/css/main.99fc6a73.chunk.css.map": "https://vijaychari.github.io/csb-lieuw4/static/css/main.99fc6a73.chunk.css.map",
+    "static/js/2.8083575e.chunk.js.LICENSE.txt": "https://vijaychari.github.io/csb-lieuw4/static/js/2.8083575e.chunk.js.LICENSE.txt",
+    "static/media/girl.png": "https://vijaychari.github.io/csb-lieuw4/static/media/girl.1c4c0c8a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66398317.js",
+    "static/js/2.8083575e.chunk.js",
+    "static/css/main.99fc6a73.chunk.css",
+    "static/js/main.ebbeed78.chunk.js"
+  ]
+}
